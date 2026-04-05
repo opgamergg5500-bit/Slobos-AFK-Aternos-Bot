@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Noobbot01_112",
+    "password": "ggnewnoob01",
     "type": "offline"
   },
   "server": {
     "ip": "DARK_KINGDOM_SMP.aternos.me",
-    "port":  42786,
-    "version": "",
+    "port": 42786,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
